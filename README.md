@@ -1,6 +1,6 @@
 # Pagination
 A Pagination app to display a list of 200+ users in pagination format with maximum 10 users per page.
-Pagination at the bottom of the page can be used to navigate to next or previous pages or even to a particular page number.
+Pagination at the bottom of the page can be used to navigate to next or previous pages or even to a particular page number.  
 Link to the app: https://pagination-noob.netlify.app/
 
 ## Initial page or Page 1 (previous or left arrow key hidden)
